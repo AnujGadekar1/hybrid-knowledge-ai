@@ -77,6 +77,7 @@ python visualize_graph.py
 # Output: neo4j_viz.html
 ```
 <img width="882" height="687" alt="image" src="https://github.com/user-attachments/assets/5e4b913b-ed69-4f79-ba6b-bcf628d3f072" />
+<img width="1697" height="829" alt="image" src="https://github.com/user-attachments/assets/dce3a933-0136-4ceb-9662-c5056d594235" />
 
 
 ### 4️⃣ Upload to Pinecone
